@@ -68,9 +68,9 @@ class External_address_info
 {
   public: 
   int buildSendHdr(int , unsigned char * , int );
-  void print_usage();
+  //void print_usage();
   unsigned short crc16(unsigned char * , unsigned int );
-  int processRcvdMsg(unsigned char *,int,int,int);
+  //int processRcvdMsg(unsigned char *,int,int,int);
   unsigned short htons(unsigned char * , unsigned short );
   void sendNodeExtAddrInfoReq(void) 
   {
