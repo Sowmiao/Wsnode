@@ -11,7 +11,7 @@
 3)Achieved implementing this design at a very low power when compared to conventional systems which are into the same domain. 
 
 
-4)This was possible by exploiting the sleep-wake cycle of the microprocessor(MSP-EXP430) and also due to the use of Radio network(CC1120) which could be used as a Sub-1Ghz wireless mesh Node, when implemented together.
+4)This was possible by exploiting the sleep-wake cycle[will not be including a code for this due to certain constarints within the organization, but will give a brief over how it was done soon] of the microprocessor(MSP-EXP430) and also due to the use of Radio network(CC1120) which could be used as a Sub-1Ghz wireless mesh Node, when implemented together.
 
 These attributes how they were done on Linux , will update soon.
 
